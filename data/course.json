@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ]
+  ],
+  "legacy_uid": "ab3a4071-97ac-e7c2-73dd-3fbebfd7ef0a",
+  "instructors": {
+    "content": [
+      "5d726140-54ba-2518-0bdf-322053b36f71",
+      "a8d67574-6a27-d89f-33dc-42ea6796ed97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a23f486d-2b0b-1148-ace5-f5c787fff897",
+    "website": "22-68j-superconducting-magnets-spring-2003"
+  },
+  "course_title": "Superconducting Magnets",
+  "course_description": "This course focuses on one important engineering application of superconductors -- the generation of large-scale and intense magnetic fields. It includes a review of electromagnetic theory; detailed treatment of magnet design and operational issues, including \"usable\" superconductors, field and stress analyses, magnet instabilities, ac losses and mechanical disturbances, quench and protection, experimental techniques, and cryogenics. The course also examines new high-temperature superconductors for magnets, as well as design and operational issues at high temperatures.\n",
+  "department_numbers": [
+    "22",
+    "2"
+  ],
+  "extra_course_numbers": "2.64J",
+  "primary_course_number": "22.68J",
+  "course_image_thumbnail": {
+    "content": "e15f433e-e543-4ea0-9226-5f1895f9bcd1",
+    "website": "22-68j-superconducting-magnets-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "d6d2441c-2ef3-499d-8732-1017deb15894",
+  "site_short_id": "22.68j-spring-2003",
+  "title": "Course Metadata"
+}
